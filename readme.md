@@ -1,3 +1,5 @@
+## Atividade do MBA da Rocketseat para mapear domínios a partir de um texto
+
 ### Entidades
 
 - Produto
@@ -5,7 +7,7 @@
 - Estoque
 - Ordem de Compra
 
-## Casos de Uso
+### Casos de Uso
 
 - Rastrear Produto por um identificador único
 - Enviar Alertas por E-mail
@@ -16,3 +18,4 @@
 - Gerar histórico do estoque
 - Criar Ordens de Compra de com base nas Quantidades Mínimas de Estoque
 - Receber atualizações de entrega de remessas de fornecedores
+
