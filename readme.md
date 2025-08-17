@@ -1,5 +1,7 @@
 ## Atividade do MBA da Rocketseat para mapear domínios a partir de um texto
 
+Link para o texto: https://efficient-sloth-d85.notion.site/Atividade-Mapeando-o-dom-nio-38963358ffd74289b824ff73b187165d?pvs=143
+
 ### Entidades
 
 - Produto
@@ -18,4 +20,5 @@
 - Gerar histórico do estoque
 - Criar Ordens de Compra de com base nas Quantidades Mínimas de Estoque
 - Receber atualizações de entrega de remessas de fornecedores
+
 
